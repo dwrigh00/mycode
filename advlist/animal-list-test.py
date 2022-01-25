@@ -18,3 +18,11 @@ def main2():
     print(list2)
 
 main()
+
+
+
+student@bchd:~/mycode$ ~/mycode/advlist/animal-list-test.py
+Traceback (most recent call last):
+  File "/home/student/mycode/advlist/animal-list-test.py", line 20, in <module>
+    main()
+NameError: name 'main' is not defined
