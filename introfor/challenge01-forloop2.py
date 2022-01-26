@@ -25,3 +25,24 @@ def main():
 if __name__ == "__main__":
     main()
 
+
+
+
+
+SOLUTION:
+student@bchd:~/mycode$ ~/mycode/introfor/challenge01-forloop2.py
+NE Farm:
+  - sheep
+  - cows
+  - pigs
+  - chickens
+  - llamas
+  - cats
+W Farm:
+  - pigs
+  - chickens
+  - llamas
+SE Farm:
+  - chickens
+  - carrots
+  - celery
